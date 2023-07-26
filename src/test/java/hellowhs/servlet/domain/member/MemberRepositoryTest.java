@@ -1,12 +1,10 @@
-package hellowhs.servletwhs.domain.member;
+package hellowhs.servlet.domain.member;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class MemberRepositoryTest {
 
@@ -19,7 +17,7 @@ class MemberRepositoryTest {
 
     @Test
     void save() {
-        Member member = new Member("hello", 20);
+        Member member = new Member("hellowhs", 20);
 
         Member savedMember = memberRepository.save(member);
 

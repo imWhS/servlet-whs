@@ -1,4 +1,4 @@
-package hellowhs.servletwhs.basic;
+package hellowhs.servlet.basic;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
@@ -8,7 +8,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-@WebServlet(name = "helloServlet", urlPatterns = "/hello")
+@WebServlet(name = "helloServlet", urlPatterns = "/hellowhs")
 public class HelloServlet extends HttpServlet {
 
     @Override
@@ -22,6 +22,6 @@ public class HelloServlet extends HttpServlet {
 
         response.setContentType("text/plain");
         response.setCharacterEncoding("utf-8");
-        response.getWriter().write("hello " + username);
+        response.getWriter().write("hellowhs " + username);
     }
 }

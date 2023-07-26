@@ -1,4 +1,4 @@
-package hellowhs.servletwhs.domain.member;
+package hellowhs.servlet.domain.member;
 
 import java.util.*;
 

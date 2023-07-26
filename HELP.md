@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'hello-whs.servlet-whs' is invalid and this project uses 'hellowhs.servletwhs' instead.
+* The original package name 'hellowhs-whs.servlet-whs' is invalid and this project uses 'hellowhs.servletwhs' instead.
 
 # Getting Started
 
