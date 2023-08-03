@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6a4b403-393e-4b05-b4be-2a6e1f33953b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hellowhs/servlet/web/springmvc/old/MyHttpRequestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hellowhs/servlet/web/springmvc/old/OldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hellowhs/servlet/web/springmvc/v1/SpringMemberFormControllerV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hellowhs/servlet/web/springmvc/v1/SpringMemberSaveControllerV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hellowhs/servlet/web/springmvc/v2/SpringMemberControllerV2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +139,7 @@
       <workItem from="1690332984387" duration="244000" />
       <workItem from="1690333235106" duration="2251000" />
       <workItem from="1690335517903" duration="27169000" />
-      <workItem from="1691028059518" duration="4736000" />
+      <workItem from="1691028059518" duration="5731000" />
     </task>
     <servers />
   </component>
